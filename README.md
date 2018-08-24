@@ -71,6 +71,16 @@ There are instructor repositories for all of the assignments above. If you're an
 instructor for a geometry processing course, send an email to
 jacobson@cs.toronto.edu for an invitation.
 
+### Corresponding solution/instructor (private) repos are located at:
+
+ 1. [Introduction](https://github.com/alecjacobson/geometry-processing-introduction-solution)
+ 2. [Mesh Reconstruction](https://github.com/alecjacobson/geometry-processing-mesh-reconstruction-instructor) 
+ 3. [Surface Registration](https://github.com/alecjacobson/geometry-processing-registration-instructor) 
+ 4. [Smoothing](https://github.com/alecjacobson/geometry-processing-smoothing-instructor) 
+ 5. [Parameterization](https://github.com/alecjacobson/geometry-processing-parameterization-instructor)
+ 6. [Deformation](https://github.com/alecjacobson/geometry-processing-deformation-instructor) 
+ 7. [Curvature](https://github.com/alecjacobson/geometry-processing-curvature-instructor)
+
 ### Homework Submission via GitHub Pull Requests
 
 When used for a formal course, it is intended that students _fork_ each
