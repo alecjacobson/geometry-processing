@@ -71,6 +71,10 @@ There are instructor repositories for all of the assignments above. If you're an
 instructor for a geometry processing course, send an email to
 jacobson@cs.toronto.edu for an invitation.
 
+> For my reference, I can add a new instructor with github id [githubid] to all solution repos using:
+>
+>     github-add-user -u alecjacobson -r $(echo alecjacobson/geometry-processing-{introduction,mesh-reconstruction,registration,smoothing,parameterization,deformation,curvature}-solution | tr ' ' ',') [githubid]
+
 ### Corresponding solution (private) repos are located at:
 
  1. [Introduction](https://github.com/alecjacobson/geometry-processing-introduction-solution)
